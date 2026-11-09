@@ -1,1 +1,7 @@
-{}
+{
+    "bug_fixed": true,
+    "bug_description": "Fixed a bug that caused the application to crash when loading large datasets.",
+    "fix_details": "The issue was due to inefficient memory management when handling large arrays.",
+    "fix_date": "2024-06-15",
+    "criticality": "High"
+}

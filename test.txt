@@ -1,4 +1,4 @@
 hello!
 Edited
-
+Hey, we fixed the bug
 How are you?
